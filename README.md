@@ -8,7 +8,7 @@ In this repository, you will find organized folders for each section of the Sigm
 To get started with this repository, clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/CodeWithHarry-Sigma-Web-Development.git
+https://github.com/rahubothraa/Sigma-WebD.git
 ```
 
 <h2>Feedback</h2>
